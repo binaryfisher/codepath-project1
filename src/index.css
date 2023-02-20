@@ -4,6 +4,10 @@
   object-fit: cover;
 
 }
+.header img{
+  width:auto;
+  height: 200px;
+}
 img{
   overflow-clip-margin: content-box;
   overflow: clip;
@@ -28,7 +32,7 @@ h1{
     padding-bottom: 20px;
     box-shadow: 0 15px 25px #817c7c33;
     font-size: medium;
-    border-radius: 14px;
+    border-radius: 16px;
     backdrop-filter: blur(2px);
     text-align: center;
     margin-bottom: 30px;

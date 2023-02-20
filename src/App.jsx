@@ -6,8 +6,8 @@ const App = () => {
   return (
     <div className="App">
       <div className='header'>
-        <img src='https://heroic-pixie-6d7f91.netlify.app/awning.png'/>
-        <h1>Food truck favorites</h1>
+        <img src='https://img.freepik.com/free-vector/designed-travel-label-new-york_1284-38825.jpg?w=2000'/>
+        <h1> Must Visit Places in New York City</h1>
       </div>
         
       <Cards/>
