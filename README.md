@@ -1,21 +1,21 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - *Must visit places in NYC*
 
-Submitted by: **Your Name Here**
+Submitted by: **Shengwei Yu**
 
-This web app: **insert description**
+This web app: **This web app shows a few wonderful plces to visit in New York City.**
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **There is a unique theme for events or resources relevant to a specific community**
-- [ ] **At least 10 unique resources or events are displayed in a responsive card format**
+- [x] **There is a unique theme for events or resources relevant to a specific community**
+- [x] **At least 10 unique resources or events are displayed in a responsive card format**
 
 The following **optional** features are implemented:
 
-- [ ] Buttons or links to a related resources are on each card component
+- [x] Buttons or links to a related resources are on each card component
 - [ ] The site is responsive for both desktop and mobile formats
 
 The following **additional** features are implemented:
