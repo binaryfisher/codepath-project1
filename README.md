@@ -37,7 +37,7 @@ GIF created with ScreenToGif
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Budlding this app accroding to instuctions provided in the course, everyhting was smooth.
 
 ## License
 
